@@ -1,0 +1,70 @@
+.btn-utama{
+    background-color: #07617D;
+    color: white;
+}
+.btn-utama:hover{
+    background-color: #034053;
+    color: white;
+}
+.utama{
+    color:#07617D;
+}
+*{
+    font-family: 'Poppins', sans-serif;
+}
+.background{
+    background-image: url('../img/Vect.png');
+    height: 680px;
+}
+.sideactive{
+    background: #07617D;
+    height: 100%;
+}
+.sidebar{
+    color: #000000;
+    text-decoration: none;
+    width: 100%;
+}
+.sidebar:hover{
+    color: #034053;
+}
+.sidebar.active{
+    color: #ffffff;
+    text-decoration: none;
+    
+}
+.table{
+    font-size: 12px;
+}
+.hasil{
+    width: 100%;
+    background: #F9A828;
+    color: #ffffff;
+}
+.hasilnya{
+    background-color: #fff7e7;
+    text-align: center;
+    border: 2px solid #F9A828;
+}
+p{
+    font-size: 14px;
+}
+@media (min-width: 768px) {
+    .garis{
+        display: none;
+    }
+}
+
+.btn-baca{
+    background: #F9A828;
+    color: #ffffff;
+}
+.btn-baca:hover{
+    background: #cf8a19;
+    color: #ffffff;
+}
+
+.footer{
+    background: #07617D;
+    color: white;
+}
